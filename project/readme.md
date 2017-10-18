@@ -16,7 +16,7 @@ $$$$
 4  
 
 ### review_count
-different numbers represent different popularity
+different numbers represent different popularity, and may also have a relation with waiting time
 
 ### transaction
 for special requirements like reservation, delivery and pick up
