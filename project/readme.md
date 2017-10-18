@@ -5,15 +5,15 @@ categories[1][alias] and categories[1][title]
 categories[2][alias] and categories[2][title] 
 
 ### price
-$
-$$
-$$$
-$$$$
+$  
+$$  
+$$$  
+$$$$  
 
 ### rating
-5
-4.5
-4
+5  
+4.5  
+4  
 
 ### review_count
 different numbers represent different popularity
