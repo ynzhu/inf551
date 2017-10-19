@@ -5,7 +5,7 @@ categories[1][alias] and categories[1][title]
 categories[2][alias] and categories[2][title]   
 ``` 
 We can extract all different categories and pick randomly from them to design the questions.
-This is the most important that we can use with limited data\
+This is the most important that we can use with limited data.
 ```
 ### price
 $  
@@ -20,7 +20,10 @@ $$$$
 
 ### review_count
 different numbers represent different popularity, and may also have a relation with waiting time
-
+```
+There's a script called yell, which can extract review texts along with photos from one user.
+Maybe we can use that, although it requires mannualy operations.
+```
 ### transaction
 for special requirements like reservation, delivery and pick up
 
