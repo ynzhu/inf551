@@ -50,7 +50,7 @@ def getB(query):
         with open ("yelpb.json", "a") as f:
             f.write(dt2)
 
-def uploadB(query):
+def uploadB(query)    #This is for uploading the data to firebase
     request_headers = {
     "Accept-Language": "en-US,en;q=0.5",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0",
