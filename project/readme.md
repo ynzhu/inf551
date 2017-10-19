@@ -3,7 +3,10 @@
 categories[0][alias] and categories[0][title]   
 categories[1][alias] and categories[1][title]   
 categories[2][alias] and categories[2][title]   
-``` This is the most important that we can use ```
+``` 
+We can extract all different categories and pick randomly from them to design the questions.
+This is the most important that we can use with limited data\
+```
 ### price
 $  
 $$  
