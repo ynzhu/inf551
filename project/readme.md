@@ -24,7 +24,7 @@ different numbers represent different popularity, and may also have a relation w
 There's a script called yell, which can extract review texts along with photos from one user.
 Maybe we can use that, although it requires mannualy operations.
 ```
-[!https://github.com/tmcw-up-for-adoption/yell]yell
+[!yell](https://github.com/tmcw-up-for-adoption/yell)
 ### transaction
 for special requirements like reservation, delivery and pick up
 
