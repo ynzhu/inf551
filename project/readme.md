@@ -1,4 +1,4 @@
-## attributes in yelp data that can be used for choosing:
+## Attributes in yelp data that can be used for choosing:
 ### categories
 categories[0][alias] and categories[0][title]   
 categories[1][alias] and categories[1][title]   
