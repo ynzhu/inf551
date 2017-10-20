@@ -1,3 +1,4 @@
+DROP VIEW IF EXISTS action_view;
 CREATE VIEW action_view AS
 SELECT DISTINCT r.customer_id
 FROM rental r, customer, film f, inventory i, film_category f_c
