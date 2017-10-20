@@ -1,4 +1,4 @@
-DROP VIEW IF EXISTS horrow_view
+DROP VIEW IF EXISTS horrow_view;
 CREATE VIEW horrow_view AS
 SELECT DISTINCT r.customer_id
 FROM rental r, customer, film f, inventory i, film_category f_c
